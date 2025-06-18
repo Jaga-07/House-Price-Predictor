@@ -1,1 +1,3 @@
-# House-Price-Predictor
+streamlit
+numpy
+joblib
